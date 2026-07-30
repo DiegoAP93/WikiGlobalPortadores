@@ -25,4 +25,4 @@ Actualmente, el Estigma no influye negativamente en su cuerpo, ni tampoco presen
 
 ### 11 de Febrero de 1901
 
-- _Leena contactó conmigo para explicarme lo sucedido. Parece que Taro no colaboraba con Shura, sino que se había librado de su control y buscaba poder para enfrentarse a él. Hoy Leena luchó conjuntamente con Taro contra [[Shura]], pero éste huyó, tras herir mortalmente a Taro.
+- _Leena contactó conmigo para explicarme lo sucedido. Parece que Taro no colaboraba con Shura, sino que se había librado de su control y buscaba poder para enfrentarse a él. Hoy Leena luchó conjuntamente con Taro contra [[Shura]], pero éste huyó, tras herir mortalmente a Taro._
