@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: es-ES
-  baseUrl: global-portadores
+  baseUrl: DiegoAP93.github.io/WikiGlobalPortadores
   ignorePatterns:
     - private
     - templates
@@ -230,7 +230,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
+        GitHub: https://github.com/DiegoAP93/WikiGlobalPortadores
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
