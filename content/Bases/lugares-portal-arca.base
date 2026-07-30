@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - localizacion.contains("Mundos del Portal del Arca")
+    order:
+      - file.name
+      - tipo
+      - subtipo
+      - localizacion

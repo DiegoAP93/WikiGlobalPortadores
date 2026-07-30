@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - subtipo == "Mundo completo"
+        - '!localizacion.containsAny("Mundos del Portal del Arca", "Etheirys", "Ultima Thulé", "Tierra original")'
+    order:
+      - file.name
+      - tipo
+      - subtipo
+      - localizacion

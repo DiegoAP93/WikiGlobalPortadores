@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Información"
+    order:
+      - file.name
+      - tipo
+      - subtipo

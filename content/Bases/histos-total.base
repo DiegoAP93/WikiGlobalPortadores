@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Hito"
+    order:
+      - file.name
+      - estado
+      - arco
+    columnSize:
+      file.name: 417

@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - localizacion.contains("La Luna Roja")
+    order:
+      - file.name
+      - tipo
+      - subtipo
+      - localizacion

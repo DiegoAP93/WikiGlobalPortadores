@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Facción"
+        - subtipo == "Facción Aliada"
+    order:
+      - file.name
+      - tipo
+      - subtipo
+      - estado

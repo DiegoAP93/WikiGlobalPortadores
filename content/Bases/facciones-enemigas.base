@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Facción"
+        - subtipo == "Facción Enemiga"
+    order:
+      - file.name
+      - tipo
+      - subtipo
+      - estado
+    columnSize:
+      file.name: 219

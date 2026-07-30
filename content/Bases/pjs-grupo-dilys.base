@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Personaje"
+        - note["fil-filtro"] == "Grupo de Dilys"
+    order:
+      - file.name
+      - estado
+      - filiación

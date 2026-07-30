@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Personaje"
+        - note["fil-filtro"] == "Abyssea"
+    order:
+      - file.name
+      - tipo
+      - subtipo
+      - estado
+      - filiación

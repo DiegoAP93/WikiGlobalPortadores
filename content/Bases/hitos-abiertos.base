@@ -1,0 +1,16 @@
+formulas:
+  Sin título: ""
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Hito"
+        - estado == "Abierto"
+    order:
+      - file.name
+      - estado
+      - arco
+    sort: []
+    columnSize:
+      file.name: 393

@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Personaje"
+        - note["fil-filtro"] == "Villanos"
+    order:
+      - file.name
+      - estado
+      - filiación
+      - fil-filtro

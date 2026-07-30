@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - localizacion.contains("Etheirys")
+    order:
+      - file.name
+      - tipo
+      - subtipo
+      - localizacion

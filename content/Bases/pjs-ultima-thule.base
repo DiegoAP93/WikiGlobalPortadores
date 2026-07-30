@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Personaje"
+        - note["fil-filtro"] == "Ultima Thulé"
+    order:
+      - file.name
+      - subtipo
+      - estado
+      - filiación

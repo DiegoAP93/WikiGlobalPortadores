@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - tipo == "Personaje"
+        - subtipo == "Aliado"
+        - note["fil-filtro"] == "Otros aliados"
+    order:
+      - file.name
+      - subtipo
+      - estado
+      - filiación
