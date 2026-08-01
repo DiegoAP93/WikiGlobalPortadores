@@ -21,3 +21,6 @@ Su apariencia y comportamiento resulta mucho más agradable y amistosa que [[Tal
 💚 Vivo
 
 ## Actualizaciones de información
+### 30 de Abril de 1901
+
+- *[[Leena]] acudió a Alina para ayudar a los [[Infectados]] en lo que fuese. De paso, le enseñó un curioso retoño de árbol hecho íntegramente de **Organium**. Esto parece fascinar a Alina.*

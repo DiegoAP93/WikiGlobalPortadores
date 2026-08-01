@@ -43,6 +43,10 @@ Ninguno de los dos bandos confía en el otro, y los sucesos del pasado aún est�
 
 - *[[Alphinaud]] acabó enfermo por excesivo agotamiento. Tanto él como [[Alisaie]] están ahora en el [[Arca]] hasta que descansen y se recuperen.*
 
+### 30 de Abril de 1901
+
+- *[[Leena]] acudió a [[Alina]] para ayudar a los [[Infectados]] en lo que fuese. Les trajo comida y, lo más importante, semillas para cultivar. Junto a [[Alina]] y [[Patriot]], prepararon una zona de cultivos en el propio campamento.*
+
 ## Hitos anteriores
 
 - [[R04 - La Búsqueda de la Medicina y el Encuentro con Kravchenko]]

@@ -18,3 +18,9 @@ Tiene un comportamiento nervioso con movimientos incontrolados, y por lo que afi
 💚 Vivo
 
 ## Actualizaciones de información
+
+### 30 de Abril de 1901
+
+- *[[Leena]] se decidió a visitar a Orologia, contándole que puede "ver en otras realidades donde los Portadores no existen". Orologia le sugiere que puede visitar e interactuar con una especie de copia de ese mundo, y aumentar el poder de sus Estigmas creando vínculos en esos sitios.
+
+- *[[Leena]] insistió un poco en saber de donde viene y quién es Orologia, pero ella se escudó en que es complejo de explicar. [[Leena]] cree que está esquivando la pregunta.*
