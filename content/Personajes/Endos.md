@@ -30,3 +30,7 @@ Para identificarlo fue apodado **Endos** por [[Alphinaud]] ya que se desconoce s
 ### 30 de Abril de 1901
 
 - *[[Leena]], hablando con [[Orologia]], descubrió que Endos no existe en otros planos tampoco. ¿Significa eso que es como ellos? ¿también un Antiguo que no se fragmentó? ¿es algo distinto? Es una información que despierta muchas más preguntas.*
+
+### 2 de Mayo de 1901
+
+- *[[Leena]] descubrió que Endos está reuniendo un numeroso ejército de personas dominadas, criaturas y otros seres al hablar con [[Nathariel]]. Y resulta que los está reuniendo no solo del mundo conocido, sino de otros, sirviéndose de crear una "religión" o "culto".

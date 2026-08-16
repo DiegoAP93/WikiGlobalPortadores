@@ -52,3 +52,4 @@ La [[Meteia]] tomó forma de un pajarillo y alzó el vuelo al cosmos, camino hac
 - [[011 - La Orden Incomprensible de los Omicrones]]
 ## Hitos posteriores
 
+- [[013 - La Llegada del Ángel]]

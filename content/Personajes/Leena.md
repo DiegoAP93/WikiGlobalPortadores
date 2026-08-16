@@ -27,3 +27,7 @@ Tras preguntar a Leena más adelante, resulta que ese supuesto alguien que podr�
 - _Leena contactó conmigo para explicarme lo sucedido. Parece que Taro no colaboraba con Shura, sino que se había librado de su control y buscaba poder para enfrentarse a él. Hoy Leena luchó conjuntamente con Taro contra [[Shura]], pero éste huyó, tras herir mortalmente a Taro._
 
 - _Taro se quitó la vida **antes de transformarse en Pesadilla**, parece que las heridas mortales de la espada de [[Shura]] transforman a humanos en pesadillas en pocos minutos… Lo cual es preocupante._
+
+### 2 de Mayo de 1901
+
+- _Leena se encontró con [[Nathariel]] y descubrió los planes de [[Endos]]: reunir un colosal ejército. Esta información, la gran diferencia de números y el hecho de que incluso los ángeles se unan a la batalla preocupa aún más a Leena. Tiene ciertas dudas de que realmente los Portadores estén cumpliendo su parte... o incluso si tienen posibilidad de vencer._
