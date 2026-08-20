@@ -8,7 +8,7 @@ arco: Principal
 
 Un moguri visita a [[Leena]] para decirle que alguien desea verse con ella en una zona privada... pero dicho moguri dice que esa información le llegó a través de sueños y mensajes mentales. [[Leena]] considera que esto es cuanto menos peculiar y posiblemente una trampa. 
 
-En las afueras de Tokyo, encuentra al susodicho oculto en una caballa, que le ofrece su arma a [[Leena]] para confiar en él. Al salir, [[Leena]] descubre la razón de porque la reunión en una zona tan reservada. Se trataba de un ángel de imponente armadura y grandes alas, llamado [[Nathariel]].
+En las afueras de Tokyo, encuentra al susodicho oculto en una cabaña, que le ofrece su arma a [[Leena]] para confiar en él. Al salir, [[Leena]] descubre la razón de porque la reunión en una zona tan reservada. Se trataba de un ángel de imponente armadura y grandes alas, llamado [[Nathariel]].
 
 El ángel incumplió las normas del Cielo de intervenir en los asuntos mortales y ha ofrecido su espada y habilidades a los Portadores, pues [[Endos]] está reuniendo un poderoso ejército de dominados, sectarios y criaturas, incluso de diversos mundos, en números que superan los millones. 
 
