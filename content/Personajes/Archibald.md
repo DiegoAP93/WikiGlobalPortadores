@@ -8,7 +8,7 @@ filiación:
 ---
 **Nombre completo:** Archibald Morgan
 
-_{Sin imagen}_
+![[archibald.png]]
 ### Descripción
 
 Archibald parece ser un hombre con experiencia como mercenario para trabajos de tropas especiales. Ha demostrado capacidad de liderazgo e iniciativa para mantener a sus aliados con la mente despejada, así como ciertas habilidades con armas de fuego.
