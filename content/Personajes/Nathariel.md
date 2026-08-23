@@ -19,3 +19,7 @@ Nathariel ha demostrado con sus palabras su condición como guerrero del bien pa
 💚 Vivo
 
 ## Actualizaciones de información
+
+### 3 de Mayo de 1901
+
+- *[[Leena]], en el momento que [[Urianger]] tuvo lista la Perla, se la llevó y entregó a Nathariel. Ahora puede contactar con más facilidad y estar al tanto de todo lo que ocurre. En los días siguientes contactará con todos sus nuevos aliados con habitual actitud positiva para agradecer sus esfuerzos y recordarles que luchan en el lado del bien.*

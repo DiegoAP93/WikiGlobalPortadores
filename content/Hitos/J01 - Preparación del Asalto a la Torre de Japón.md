@@ -28,6 +28,11 @@ Mientras [[Linne]] lleva a cabo su plan, [[Hien]] y los otros señores que le ha
 - [[Linne]] encontró el lugar donde estaba sellado **Otakemaru**, una de las Tres Grandes Bestias junto con *Yamata-no-Orochi* y *Tamamo-no-Mae*. [[Linne]] acordó con él que si bloqueaba el ataque de su poderosa espada, la *Sanmyoken*, apoyaría su plan. [[Linne]] forjó una espada sirviéndose de poderosos materiales que cedieron sus compañeros junto con la sangre de su propio hermano, siendo la única cura posible a su ciclo de inmortalidad. Con esa nueva espada, pudo bloquear los ataques de **Otakemaru**. Cuando comience la batalla, [[Linne]] debe clamar su nombre y él acudirá.
 - [[Linne]] encontró el lugar de sello del _Tamamo-no-Mae_, el Zorro de Nueve Colas. Consiguió convencer al sacerdote budista que velaba por que el sello se mantuviese en su sitio, oculto bajo una niebla de vapores tóxicos que prevenía la entrada de curiosos. [[Linne]] trajo al Tamamo a Kugane y con ella ya están las Tres Grandes Bestias. El **Asalto a la Torre es posible**. 
 
+## Sucesos
+
+### 3 de Mayo de 1901
+
+- *A lo largo de todo Japón grupos de dominados y [[Pesadillas]] han asaltado aldeas para matar indiscriminadamente a civiles y arrasar viviendas. Aunque fueron repelidos en su mayoría antes de que las cosas fueran a más, existe temor de que la guerra haya vuelto a estallar en el país nipón... especialmente porque parte de esos atacantes ondeaban estandartes del antiguo clan del viejo shogutano: **Los Tokugawa**.*
 ## Hitos anteriores
 
 - [[003 - La Aparición de las Torres Oscuras]]
