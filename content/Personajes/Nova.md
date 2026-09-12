@@ -25,3 +25,7 @@ Nova tiene un implante mecánico en el brazo izquierdo debido a que perdió ese 
 
 💚 Vivo
 ## Actualizaciones de información
+
+### 7 de Mayo de 1901
+
+- _En **Gorgona**, Nova aceptó que [[Shana]] entrase en su mente para convencerse de que odiaban a la Junta. No sé sabe que vio [[Shana]] en la mente de Nova durante los largos minutos que estuvo hurgando sus recuerdos, pero fue suficiente para convencerla, y para que la propia Hija de Gorgona le dijese que "lo sentía"._

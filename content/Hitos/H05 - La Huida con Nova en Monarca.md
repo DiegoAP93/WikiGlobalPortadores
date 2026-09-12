@@ -1,6 +1,6 @@
 ---
 tipo: Hito
-estado: Abierto
+estado: Finalizado
 arco: Halcyon
 ---
 
@@ -21,12 +21,11 @@ Ahora se abren varios frentes para los portadores:
 - O viajar a **Gorgona** y buscar a la última de las hijas de Gorgona, que sería un buen añadido para el equipo.
 ## Estado del hito
 
-❌ Abierto
-
+✅ Finalizado
 ## Personajes Implicados
 
 - [[Archibald]]
-- [[Linne]]
+- [[Leena]]
 - [[Nova]]
 
 ## Actos de los Portadores
@@ -36,7 +35,7 @@ Ahora se abren varios frentes para los portadores:
 
 ## Hitos anteriores
 
- - [[H03 - El Despegue de La Falible]]
+ - [[H04 - La Visita a la Pionera y el Rescate de Cuervo]]
 ## Hitos posteriores
 
-- [[H05 - La Huida con Nova en Monarca]]
+- [[H06 - El Encuentro con la Hija de Gorgona]]
