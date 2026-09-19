@@ -47,6 +47,13 @@ Ninguno de los dos bandos confía en el otro, y los sucesos del pasado aún est�
 
 - *[[Leena]] acudió a [[Alina]] para ayudar a los [[Infectados]] en lo que fuese. Les trajo comida y, lo más importante, semillas para cultivar. Junto a [[Alina]] y [[Patriot]], prepararon una zona de cultivos en el propio campamento.*
 
+### 8 de Mayo de 1901
+
+- *[[Archibald]] visitó a los [[Espartanos]] en su campamento, descubriendo que habían encontrado a muchos más civiles perdidos, pero también perdiendo a alguno de los enfermos. Ahora hay más de 300 personas en ese campamento.*
+
+- *[[Archibald]] ayudó a preparar unos colectores de agua de lluvia que se purifican gracias a la idea de [[Alphinaud]] con pergaminos mágicos de purificación de agua. Además, prepararon en conjunto con los [[Espartanos]] y algunos civiles unos campos de cultivo.*
+
+- *[[Archibald]] intentó ofrecer a los [[Espartanos]] ir a Greede u otras ciudades a descansar una noche y asearse, pero se negaron todos en rotundo porque prefieren estar en las mismas condiciones que los civiles.*
 ## Hitos anteriores
 
 - [[R04 - La Búsqueda de la Medicina y el Encuentro con Kravchenko]]
