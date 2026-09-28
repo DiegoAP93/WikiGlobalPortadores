@@ -2,6 +2,9 @@
 tipo: Personaje
 subtipo: Aliado
 estado: Vivo
+filiación:
+  - Antiguos
+fil-filtro: Otros aliados
 ---
 **Nombre completo:** Meteion
 

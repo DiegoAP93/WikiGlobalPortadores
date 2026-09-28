@@ -1,6 +1,6 @@
 ---
 tipo: Hito
-estado: Abierto
+estado: Finalizado
 arco: Halcyon
 ---
 
@@ -18,7 +18,7 @@ Una sucia mentira. Ni era un vergel, y ni siquiera se pudo confirmar el origen d
 Con eso, consiguieron que la Hija de Gorgona se uniese, llamada [[Shana]]. Ahora estaban listos para atacar la estación espacial del [[Relé]].
 ## Estado del hito
 
-❌ Abierto
+✅ Finalizado
 ## Personajes Implicados
 
 - [[Archibald]]
@@ -38,3 +38,4 @@ Con eso, consiguieron que la Hija de Gorgona se uniese, llamada [[Shana]]. Ahora
  - [[H05 - La Huida con Nova en Monarca]]
 ## Hitos posteriores
 
+- [[H07 - Destrucción de la Estación y Liberar a Mooncake]]
