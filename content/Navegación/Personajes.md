@@ -4,6 +4,10 @@ Aquí puedes consultar información de los personajes de la global.
 
 ![[pjs-portadores.base]]
 
+### Estigmas Quebrados
+
+![[pjs-estigmas-quebrados.base]]
+
 ### Vástagos del Séptimo Amanecer
 
 ![[pjs-vastagos.base]]
