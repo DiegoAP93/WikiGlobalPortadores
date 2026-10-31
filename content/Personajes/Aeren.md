@@ -28,3 +28,6 @@ La búsqueda de sus compañeros le llevó a encontrarse con una de sus compañer
 _Parece que Aeren ha hecho mucho por su cuenta y ha acabado metido en la disputa con [[Endos]] por azar. Él controla a su compañera Indris a la par que el esbirro vampiro de [[Endos]] resulta ser el hermano del vampiro que Aeren conoció en el [[Mundo de las Pesadillas]].
 
 _[[Azem]] se le apareció en sueños para ofrecerle ayuda directamente, despertando su Estigma y otorgándole una Perla. Además de decirle que no dude en solicitar ayuda para las batallas venideras contra esos vampiros... u otras amenazas._
+### 13 de Mayo de 1901
+
+_Aeren pidió ayuda por la Perla, y acudieron [[Aprilis]], [[Zero]] y [[Leena]] para hacer frente a esos supuestos vampiros que parecían estar siendo usados por [[Endos]] y su nuevo lacayo: [[El Galeno]]. Allí se descubrió que [[El Galeno]] usaba a los vampiros como sujetos para sus experimentos, y ya había conseguido lo que quería de ellos: muchos nuevos soldados para el ejército de [[Endos]]. Al menos, gracias a esta conexión, varios vampiros aliados de Aeren se unen a la causa para buscar venganza._

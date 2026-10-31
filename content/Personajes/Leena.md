@@ -31,3 +31,6 @@ Tras preguntar a Leena más adelante, resulta que ese supuesto alguien que podr�
 ### 2 de Mayo de 1901
 
 - _Leena se encontró con [[Nathariel]] y descubrió los planes de [[Endos]]: reunir un colosal ejército. Esta información, la gran diferencia de números y el hecho de que incluso los ángeles se unan a la batalla preocupa aún más a Leena. Tiene ciertas dudas de que realmente los Portadores estén cumpliendo su parte... o incluso si tienen posibilidad de vencer._
+### 13 de Mayo de 1901
+
+- _Leena se unió a [[Aeren]] junto con [[Aprilis]] y [[Zero]] para enfrentar a [[El Galeno]], aunque no se consiguió frustrar realmente nada de su plan. Hemos descubierto más información del nuevo lacayo de [[Endos]] y nuevos aliados, además de confirmar que [[Aeren]] parece confiable.
